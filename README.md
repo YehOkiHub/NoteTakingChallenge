@@ -1,6 +1,6 @@
-## Note Taker
+# Note Taker
 
-# Description
+## Description
 The goal of this project was to modify starter code to create an application called Note Taker that can be used to write and save notes using an Express.js back end to retrieve note data from a JSON file. Our main tasks were to ensure that:
 
 When opening the Note Taker, the user is presented with a landing page with links to a note page.
@@ -27,7 +27,7 @@ Usage
 Credits
 
 
-# Technology Used
+## Technology Used
 Visual Studio Code
 Node.js
 Express package
@@ -41,7 +41,7 @@ Screenshots
 Landing Page Note Page
 
 
-# Links
+## Links
 Heroku
 https://notetakingapppp.herokuapp.com/
 
@@ -49,14 +49,16 @@ Github
 https://github.com/YehOkiHub/NoteTakingChallenge
 
 
-# Usage
+## Usage
 Open the website.
 
-Click the + button.
+Click the get started button.
 
 Enter your note's title and text into the appropriate fields in the right-hand portion of the screen.
 
 Click the Save icon in the navigation bar in the top right of the screen.
 
-# Credits
+Click + to add more notes
+
+## Credits
 Chien Ting Yeh
